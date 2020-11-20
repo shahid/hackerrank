@@ -9,8 +9,10 @@ simpleArraySum has the following parameter(s):
 
 **How To Run**
 
-`export OUTPUT_PATH="/tmp/simpleArraySum.output"`
-`ruby simpleArraySum.rb`
+```
+export OUTPUT_PATH="/tmp/simpleArraySum.output"
+ruby simpleArraySum.rb
+```
 
 **Sample Input**
 
