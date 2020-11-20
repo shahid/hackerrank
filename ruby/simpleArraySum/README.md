@@ -16,8 +16,10 @@ ruby simpleArraySum.rb
 
 **Sample Input**
 
-`6
-1 2 3 4 10 11`
+```
+6
+1 2 3 4 10 11
+```
 
 **Sample Output**
 
